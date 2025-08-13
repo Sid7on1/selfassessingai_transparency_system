@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for frontend_interface.html after 3 attempts",
+  "details": {},
+  "timestamp": "2025-08-13T20:44:28.839726"
+}
